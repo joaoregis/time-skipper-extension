@@ -1,3 +1,3 @@
-# Time Skipper Extension
+# Time Skipper Extension (WIP)
 
-Skip time in videos with customizable time.
+This is a Chrome Extension that allow user to skip time in videos with customizable time.
